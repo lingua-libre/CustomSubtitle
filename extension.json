@@ -1,16 +1,15 @@
 {
-    "name": "CustomSubtitles",
+    "name": "CustomSubtitle",
     "author": "Antoine Lamielle",
-    "url": "https://github.com/lingua-libre/CustomSubtitles",
+    "url": "https://github.com/lingua-libre/CustomSubtitle",
     "license-name": "GPL-2.0+",
     "version": "0.1.0",
-    "namemsg": "customSubtitles",
-    "descriptionmsg": "customSubtitles-desc",
+    "namemsg": "customSubtitle",
+    "descriptionmsg": "customSubtitle-desc",
 	"type": "parserhook",
     "manifest_version": 1,
     "MessagesDirs": {
-        "CustomSubtitles": [ "i18n" ]
+        "CustomSubtitle": [ "i18n" ]
     },
     "AutoloadClasses": [],
-    "type": "other"
 }

@@ -4,6 +4,6 @@
             "Antoine Lamielle"
         ]
     },
-    "customSubtitles": "The name of the extension",
-    "customSubtitles-desc": "{{desc|name=CustomSubtitles|url=https://github.com/lingua-libre/CustomSubtitles}}"
+    "customSubtitle": "The name of the extension",
+    "customSubtitle-desc": "{{desc|name=CustomSubtitle|url=https://github.com/lingua-libre/CustomSubtitle}}"
 }
