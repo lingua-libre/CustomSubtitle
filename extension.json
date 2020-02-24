@@ -11,5 +11,13 @@
     "MessagesDirs": {
         "CustomSubtitle": [ "i18n" ]
     },
-    "AutoloadClasses": [],
+	"AutoloadClasses": {
+		"CustomSubtitleHooks": "src/CustomSubtitleHooks.php"
+	},
+	"ExtensionMessagesFiles": {
+		"CustomSubtitleMagic": "CustomSubtitle.i18n.php"
+	},
+	"Hooks": {
+		"ParserFirstCallInit": "CustomSubtitleHooks::onParserFirstCallInit"
+	}
 }
