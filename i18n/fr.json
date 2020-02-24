@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Antoine Lamielle"
+        ]
+    },
+    "customSubtitle": "Sous-titre personnalisé",
+    "customSubtitle-desc": "Ajoute une nouvelle fonction magique pour permettre aux contributeurs d'ajouter un sous-titre personalisé à n'importe quel page de contenu."
+}

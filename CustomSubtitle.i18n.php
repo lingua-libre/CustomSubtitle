@@ -10,3 +10,8 @@ $magicWords = [];
 $magicWords['en'] = [
    'subtitle' => [ 0, 'subtitle' ],
 ];
+
+/* French */
+$magicWords['fr'] = [
+   'subtitle' => [ 0, 'soustitre', 'subtitle' ],
+];
