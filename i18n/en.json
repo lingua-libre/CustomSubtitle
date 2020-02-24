@@ -5,5 +5,5 @@
         ]
     },
     "customSubtitle": "Custom Subtitle",
-    "customSubtitle-desc": "Add a new magic function to allow contributors to set custom subtitle to any content page."
+    "customSubtitle-desc": "Add the magic function {{#subtitle: ...}} to allow contributors to set custom subtitle to any content page."
 }

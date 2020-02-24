@@ -4,6 +4,6 @@
             "Antoine Lamielle"
         ]
     },
-    "customSubtitle": "Sous-titre personnalisé",
-    "customSubtitle-desc": "Ajoute une nouvelle fonction magique pour permettre aux contributeurs d'ajouter un sous-titre personalisé à n'importe quel page de contenu."
+    "customSubtitle": "Custom Subtitle",
+    "customSubtitle-desc": "Ajoute la fonction magique {{#subtitle: ...}} pour permettre aux contributeurs d'ajouter un sous-titre personalisé à n'importe quel page de contenu."
 }
