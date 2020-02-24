@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Antoine Lamielle"
+        ]
+    },
+    "customSubtitles": "The name of the extension",
+    "customSubtitles-desc": "{{desc|name=CustomSubtitles|url=https://github.com/lingua-libre/CustomSubtitles}}"
+}
