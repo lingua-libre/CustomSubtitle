@@ -5,8 +5,14 @@
 ## Usage
 In a wikipage, with `/Header` being another existing subpage, use such as :
 ```
+{{#SUBTITLE: Your custom subtitle text goes here. }}
+```
+or 
+```
 {{#SUBTITLE:{{/Header}}}}
 ```
 
 ## Example usage
-This module is currently used on [LinguaLibre:Chat_room](https://lingualibre.org/wiki/LinguaLibre:Chat_room)
+This module is currently used on :
+* [LinguaLibre:Chat_room](https://lingualibre.org/wiki/LinguaLibre:Chat_room)
+* [LinguaLibre:Stats](https://lingualibre.org/wiki/LinguaLibre:Stats)
