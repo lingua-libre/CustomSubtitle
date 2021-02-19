@@ -12,7 +12,7 @@ class CustomSubtitleHooks {
 		global $wgOut;
 
 		// Put the subtitle in the tagline
-		$parser->disableCache();
+		$parser->getOutput()->updateCacheExpiry( 0 );
 		$wgOut->addSubtitle( $parser->recursiveTagParse( $subtitleText ) );
 
 		// Replace this magic word by a blank in the resulting wikitext
