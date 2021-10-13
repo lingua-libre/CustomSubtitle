@@ -16,6 +16,6 @@ class CustomSubtitleHooks {
 		$wgOut->addSubtitle( $parser->recursiveTagParse( $subtitleText ) );
 
 		// Replace this magic word by a blank in the resulting wikitext
-		return $parser->insertStripItem( "", $parser->mStripState );
+		return $parser->insertStripItem( "", $parser->getStripState() );
 	 }
 }
