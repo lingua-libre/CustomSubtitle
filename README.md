@@ -13,12 +13,14 @@ or
 ```
 
 ## Structure
+```
   ├── i18n/ : translation files
   |     ├── en.json : English
   |     ├── fr.json : French
   |     └── qqq.json : guides
   ├── src/CustomSubtitleHooks.php :
   └── CustomSubtitle.i18n.php :
+```
 
 ## Contribute
 - [Phabricator: Lingua-libre](https://phabricator.wikimedia.org/tag/lingua_libre/) — tickets manager
