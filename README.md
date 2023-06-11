@@ -12,6 +12,18 @@ or
 {{#SUBTITLE:{{/Header}}}}
 ```
 
+## Structure
+  ├── i18n/ : translation files
+  |     ├── en.json : English
+  |     ├── fr.json : French
+  |     └── qqq.json : guides
+  ├── src/CustomSubtitleHooks.php :
+  └── CustomSubtitle.i18n.php :
+
+## Contribute
+- [Phabricator: Lingua-libre](https://phabricator.wikimedia.org/tag/lingua_libre/) — tickets manager
+- [Github: Lingua-libre/CustomSubtitle](https://github.com/lingua-libre/CustomSubtitle) — code (PHP,JS)
+
 ## Example usage
 This module is currently used on :
 * [LinguaLibre:Chat_room](https://lingualibre.org/wiki/LinguaLibre:Chat_room)
